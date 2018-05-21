@@ -1,8 +1,3 @@
-%this is the SNA assignment of collegues 
-%Giannatou Eva
-%Vallila Maria
-%Xenaki Anna
-
 
 % This script performs fundamental social network analysis tasks on the
 % collaboration graph for the ICMB conference for the time period between
