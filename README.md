@@ -6,6 +6,8 @@ Co-Authorship Network Analytics Using MatLab
 
 Founded in Athens during 2002, ICMB developed to the major international research conference on mobile business with a significant number of researchers and authors contributing state of the art scientific papers in academia. This assignment aims at examining the state of the ICMB co-authorship network from 2002 to 2013 by applying Social Network Analysis techniques and measures. Your analysis will be based on the data files that are contained within the CoAuthorshipNetwork folder (which is available to download from the course’s e-learning portal) focusing primarily on developing MatLab code for computing fundamental network component-related centrality measures such as:
 
+# Questions
+
 ## I.	Closeness Centrality
 
 ## II.	Betweenness Centrality
